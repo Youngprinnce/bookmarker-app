@@ -9,3 +9,6 @@ They let you use state and other React features without writing a class. Hooks a
 UseEffect 
 
 Used for performing data fetching, subscriptions, or manually changing the DOM from React components before 
+
+
+useState is a Hook that allows you to have state variables in functional components.
